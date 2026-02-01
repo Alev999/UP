@@ -15,10 +15,6 @@
         "username": "NikosVertis",
         "config_url": "https://pastebin.com/raw/wji2TQUV"
     },
-    "87CC6AB85153A33F3105FF4ABF119A734E8DE6D898A712165437334DA3006078": {
-        "username": "Tolakzor",
-        "config_url": "https://pastebin.com/raw/wji2TQUV"
-    },
     "26364B974F1E649077C7F0E8CA3C5E1D0F6BA16C270DBA89A0FCD7EE22915D5B": {
         "username": "Tolakzor Laptop",
         "config_url": "https://pastebin.com/raw/wji2TQUV"
@@ -157,6 +153,10 @@
     },
     "DBC0E8A6668342B6BA114423BB41F05B6355C8285E6F6FBACB24646D69EDDDC1": {
         "username": "Trelakias(Normal)",
+        "config_url": "https://pastebin.com/raw/wji2TQUV"
+    },
+    "87CC6AB85153A33F3105FF4ABF119A734E8DE6D898A712165437334DA3006078": {
+        "username": "Tolakzor(Normal)",
         "config_url": "https://pastebin.com/raw/wji2TQUV"
     }
 }
