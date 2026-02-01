@@ -1,8 +1,4 @@
 {
-    "3D0138FD70AB5B08FC18F2BB2D9675E1BEF336093A990ADEA3E77DDA80BAA95A": {
-        "username": "Alev(Full)",
-        "config_url": "https://pastebin.com/raw/iPrSsAfC"
-    },
     "04A8786980775AA34A69249110AC9DB965C318844EFF996F60775D90EE733821": {
         "username": "Alev Desktop(Full)",
         "config_url": "https://pastebin.com/raw/iPrSsAfC"
@@ -158,5 +154,9 @@
     "1588307664E14B65C94B2793174D20B15F9CF5333669005CA7BF021C7F7FD0F8": {
         "username": "KingRR 2(Normal)",
         "config_url": "https://pastebin.com/raw/wji2TQUV"
+    },
+    "3D0138FD70AB5B08FC18F2BB2D9675E1BEF336093A990ADEA3E77DDA80BAA95A": {
+        "username": "Alev(Full)",
+        "config_url": "https://pastebin.com/raw/iPrSsAfC"
     }
 }
