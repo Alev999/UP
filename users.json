@@ -1,8 +1,4 @@
 {
-    "8F729A85931B7AA9B61F3F33C437C2A2F95CC85AD79A4A1283E67891A082FBF7": {
-        "username": "Skylab",
-        "config_url": "https://pastebin.com/raw/wji2TQUV"
-    },
     "3DA7CA13B6A294F23A76ED64B4ABFFC30A7D83983EE33C095C465524E0B6DD9F": {
         "username": "Rikardo",
         "config_url": "https://pastebin.com/raw/wji2TQUV"
@@ -157,6 +153,10 @@
     },
     "A2C55044AA8CC715D441A9851B5A2037FE4C8633C18F9967D603108152119302": {
         "username": "Pati(Normal)",
+        "config_url": "https://pastebin.com/raw/wji2TQUV"
+    },
+    "8F729A85931B7AA9B61F3F33C437C2A2F95CC85AD79A4A1283E67891A082FBF7": {
+        "username": "Skylab(Normal)",
         "config_url": "https://pastebin.com/raw/wji2TQUV"
     }
 }
