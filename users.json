@@ -103,10 +103,6 @@
         "username": "Miri (F)",
         "config_url": "https://pastebin.com/raw/iPrSsAfC"
     },
-    "3D0138FD70AB5B08FC18F2BB2D9675E1BEF336093A990ADEA3E77DDA80BAA95A": {
-        "username": "Alev (F)(Full)",
-        "config_url": "https://pastebin.com/raw/iPrSsAfC"
-    },
     "04A8786980775AA34A69249110AC9DB965C318844EFF996F60775D90EE733821": {
         "username": "Alev Desktop(F)(Full)",
         "config_url": "https://pastebin.com/raw/iPrSsAfC"
@@ -146,5 +142,9 @@
     "F3B37F183C3D692CFAA929047AD9844181F660F346675F5825ED5E4281B47B5D": {
         "username": "Paris (F)(Full)",
         "config_url": "https://pastebin.com/raw/iPrSsAfC"
+    },
+    "3D0138FD70AB5B08FC18F2BB2D9675E1BEF336093A990ADEA3E77DDA80BAA95A": {
+        "username": "Alev (F)(Normal)",
+        "config_url": "https://pastebin.com/raw/wji2TQUV"
     }
 }
