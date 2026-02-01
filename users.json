@@ -7,10 +7,6 @@
         "username": "KingRR 2",
         "config_url": "https://pastebin.com/raw/wji2TQUV"
     },
-    "4F9BECB8E4372886D84F266BF3A47DE38081F8F054019568D2B94DEB601DF106": {
-        "username": "Miri (F)",
-        "config_url": "https://pastebin.com/raw/iPrSsAfC"
-    },
     "3D0138FD70AB5B08FC18F2BB2D9675E1BEF336093A990ADEA3E77DDA80BAA95A": {
         "username": "Alev(Full)",
         "config_url": "https://pastebin.com/raw/iPrSsAfC"
@@ -157,6 +153,10 @@
     },
     "D4FDCD3ADAD7616739D58DE7F95836173A90271412BE2BEE0B1C698F594A30E7": {
         "username": "Despot4s(Normal)",
+        "config_url": "https://pastebin.com/raw/wji2TQUV"
+    },
+    "4F9BECB8E4372886D84F266BF3A47DE38081F8F054019568D2B94DEB601DF106": {
+        "username": "Miri (F)(Normal)",
         "config_url": "https://pastebin.com/raw/wji2TQUV"
     }
 }
