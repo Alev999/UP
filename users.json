@@ -1,8 +1,4 @@
 {
-    "A037EB6A4C5730705103D32059EDA980A2C89F5B4D51B8BB03951491CBB31EA3": {
-        "username": "Pain 2 (F)",
-        "config_url": "https://pastebin.com/raw/iPrSsAfC"
-    },
     "F68849CCF38201E3BD2951CD81EB1E8CBE0FCD9197CCF8F2048EB1C4A0BD95B6": {
         "username": "Paris 3 (F)",
         "config_url": "https://pastebin.com/raw/iPrSsAfC"
@@ -157,6 +153,10 @@
     },
     "62652E2DA39D5E946CC49B971F56A4DA53FC0FE60238AA98E5CC091FF942B0A5": {
         "username": "Pain(Full)",
+        "config_url": "https://pastebin.com/raw/iPrSsAfC"
+    },
+    "A037EB6A4C5730705103D32059EDA980A2C89F5B4D51B8BB03951491CBB31EA3": {
+        "username": "Pain 2(Full)",
         "config_url": "https://pastebin.com/raw/iPrSsAfC"
     }
 }
