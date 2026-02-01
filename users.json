@@ -1,8 +1,4 @@
 {
-    "3347EAD7B620BB65E3C99EFC2A6F5407383E665C6561AE14D10F1E22291F88E9": {
-        "username": "ViC (F)",
-        "config_url": "https://pastebin.com/raw/iPrSsAfC"
-    },
     "4879E2D55B95A0CDC6F53D129512EA620AC26524B602BEBD8176A91CDC136593": {
         "username": "Nikos (F)",
         "config_url": "https://pastebin.com/raw/iPrSsAfC"
@@ -157,6 +153,10 @@
     },
     "3E2AEC21B4C64491CBF46CC095254D248C1FA7A4DFDC4364CA0A00FD2B01CE9F": {
         "username": "Paris(Full)",
+        "config_url": "https://pastebin.com/raw/iPrSsAfC"
+    },
+    "3347EAD7B620BB65E3C99EFC2A6F5407383E665C6561AE14D10F1E22291F88E9": {
+        "username": "ViC(Full)",
         "config_url": "https://pastebin.com/raw/iPrSsAfC"
     }
 }
