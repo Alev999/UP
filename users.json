@@ -1,8 +1,4 @@
 {
-    "3DA7CA13B6A294F23A76ED64B4ABFFC30A7D83983EE33C095C465524E0B6DD9F": {
-        "username": "Rikardo",
-        "config_url": "https://pastebin.com/raw/wji2TQUV"
-    },
     "26364B974F1E649077C7F0E8CA3C5E1D0F6BA16C270DBA89A0FCD7EE22915D5B": {
         "username": "Tolakzor Laptop",
         "config_url": "https://pastebin.com/raw/wji2TQUV"
@@ -157,6 +153,10 @@
     },
     "8F729A85931B7AA9B61F3F33C437C2A2F95CC85AD79A4A1283E67891A082FBF7": {
         "username": "Skylab(Normal)",
+        "config_url": "https://pastebin.com/raw/wji2TQUV"
+    },
+    "3DA7CA13B6A294F23A76ED64B4ABFFC30A7D83983EE33C095C465524E0B6DD9F": {
+        "username": "Rikardo(Normal)",
         "config_url": "https://pastebin.com/raw/wji2TQUV"
     }
 }
