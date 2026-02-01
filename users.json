@@ -1,8 +1,4 @@
 {
-    "4AFCFC827222D16B63A7138B4C97D57EDD4CB49E131D6E7FB1FA63933FD562D7": {
-        "username": "Tigran",
-        "config_url": "https://pastebin.com/raw/wji2TQUV"
-    },
     "DBC0E8A6668342B6BA114423BB41F05B6355C8285E6F6FBACB24646D69EDDDC1": {
         "username": "Trelakias",
         "config_url": "https://pastebin.com/raw/wji2TQUV"
@@ -157,6 +153,10 @@
     },
     "126587642C91E5CAC910C10A6D6CED0FF3788D26E5995B602BACD6D1D2ABC640": {
         "username": "Dar3Devill(Normal)",
+        "config_url": "https://pastebin.com/raw/wji2TQUV"
+    },
+    "4AFCFC827222D16B63A7138B4C97D57EDD4CB49E131D6E7FB1FA63933FD562D7": {
+        "username": "Tigran(Normal)",
         "config_url": "https://pastebin.com/raw/wji2TQUV"
     }
 }
