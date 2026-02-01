@@ -135,10 +135,6 @@
         "username": "Despot4s(Normal)",
         "config_url": "https://pastebin.com/raw/wji2TQUV"
     },
-    "4F9BECB8E4372886D84F266BF3A47DE38081F8F054019568D2B94DEB601DF106": {
-        "username": "Miri(Full)",
-        "config_url": "https://pastebin.com/raw/iPrSsAfC"
-    },
     "D257A5A2F087145A6DE0883F5DD853DE71D5E9AF886FD03C720A0FD073F6CE68": {
         "username": "Zeu(Normal)",
         "config_url": "https://pastebin.com/raw/wji2TQUV"
@@ -157,6 +153,10 @@
     },
     "3E2AEC21B4C64491CBF46CC095254D248C1FA7A4DFDC4364CA0A00FD2B01CE9F": {
         "username": "Paris(Full)",
+        "config_url": "https://pastebin.com/raw/iPrSsAfC"
+    },
+    "4F9BECB8E4372886D84F266BF3A47DE38081F8F054019568D2B94DEB601DF106": {
+        "username": "Miri(Full)",
         "config_url": "https://pastebin.com/raw/iPrSsAfC"
     }
 }
