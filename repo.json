@@ -1,11 +1,15 @@
-[
-  {
-    "name": "FILMA365",
-    "pkg": "filma365",
-    "apk": "https://alev999.github.io/UP/filma365/index.js",
-    "lang": "sq",
-    "version": "1.0.0",
-    "code": 1,
-    "nsfw": false
-  }
-]
+{
+  "name": "FILMA365 Repo",
+  "version": 1,
+  "extensions": [
+    {
+      "name": "FILMA365",
+      "package": "filma365",
+      "version": "1.0.0",
+      "lang": "sq",
+      "nsfw": false,
+      "apk": "https://alev999.github.io/UP/filma365/index.js",
+      "icon": "https://filma365.me/upload/static/favicon-1770548570.png"
+    }
+  ]
+}
