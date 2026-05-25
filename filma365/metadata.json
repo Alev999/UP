@@ -4,6 +4,6 @@
   "version": "1.0.0",
   "lang": "sq",
   "baseUrl": "https://filma365.me",
-  "iconUrl": "https://filma365.me/upload/static/favicon-1770548570.png",
-  "type": "anime"
+  "type": "anime",
+  "iconUrl": "https://filma365.me/upload/static/favicon-1770548570.png"
 }
