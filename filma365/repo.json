@@ -1,0 +1,13 @@
+{
+  "name": "FILMA365 Repo",
+  "extensions": [
+    {
+      "name": "FILMA365",
+      "pkg": "filma365",
+      "version": "1.0.0",
+      "lang": "sq",
+      "type": "anime",
+      "icon": "https://filma365.me/upload/static/favicon-1770548570.png"
+    }
+  ]
+}
