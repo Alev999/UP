@@ -1,13 +1,16 @@
 {
-  "name": "FILMA365 Repo",
+  "name": "FILMA365",
+  "website": "https://filma365.me",
+  "signingKeyFingerprint": "",
   "extensions": [
     {
       "name": "FILMA365",
       "pkg": "filma365",
-      "version": "1.0.0",
+      "apk": "index.js",
       "lang": "sq",
-      "type": "anime",
-      "icon": "https://filma365.me/upload/static/favicon-1770548570.png"
+      "version": "1.0.0",
+      "code": 1,
+      "nsfw": false
     }
   ]
 }
